@@ -6,6 +6,8 @@
 
 .all:hover{
     background-color: brown;
+    text-shadow: 3px 4px 6px blue;
+    border-style: initial;
 }
 .sam{
     color: rgb(21, 113, 62);
@@ -15,6 +17,7 @@
 
 .sam:hover{
     background-color: rgb(56, 165, 42);
+
 }
 .kin{
     color: rgb(208, 190, 86);
@@ -23,6 +26,8 @@
 }
 .kin:hover{
     background-color: rgb(191, 214, 63);
+    text-shadow: 3px 4px 6px rebeccapurple;
+    border-style:dashed
 }
 .fre{
     color: rgb(232, 184, 52);
@@ -31,6 +36,8 @@
 }
 .fre:hover{
     background-color: rgb(38, 5, 66);
+    text-shadow: 3px 4px 6px gold;
+    border-style: hidden;
 
 }
 .rut{
@@ -41,6 +48,8 @@
 .rut:hover{
     background-color: rgb(194, 22, 22);
     background:lightgray;
+    text-shadow: 3px 4px 6px blue;
+    border-style: initial;
 }
 .speech{
     font-display: black;
